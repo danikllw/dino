@@ -1,0 +1,616 @@
+{
+  "runs": [
+    {
+      "temperature": 0.7,
+      "top_k": 0,
+      "top_p": 1.0,
+      "names": [
+        "rinyosaurus",
+        "dinornis",
+        "kaulodon",
+        "protorosaurus",
+        "longianosaurus",
+        "jiangshanosaurus",
+        "peltaraptor",
+        "barrosaurus",
+        "salakasaurus",
+        "morosaurus"
+      ]
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 0,
+      "top_p": 0.95,
+      "names": [
+        "pararhansaurus",
+        "daktandangosaurus",
+        "alimanosaurus",
+        "tiponosaurus",
+        "archosaurus",
+        "cheterannus",
+        "almerosaurus",
+        "marresaurus",
+        "trachodon",
+        "gongosaurus"
+      ]
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 0,
+      "top_p": 0.9,
+      "names": [
+        "polerosaurus",
+        "partamanosaurus",
+        "stelorosaurus",
+        "nonganosaurus",
+        "tarnosaurus",
+        "chirongosaurus",
+        "hardosaurus",
+        "archaeopteryx",
+        "orosaurus",
+        "tatarosaurus"
+      ]
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 10,
+      "top_p": 1.0,
+      "names": [
+        "amarasaurus",
+        "chingosaurus",
+        "tenorema",
+        "alassaurus",
+        "chingosaurus",
+        "tangurinosaurus",
+        "shangosaurus",
+        "halagacinator",
+        "borhilosaurus",
+        "sunosaurus"
+      ]
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 10,
+      "top_p": 0.95,
+      "names": [
+        "stenosaurus",
+        "euronosaurus",
+        "chatysaurus",
+        "erostadon",
+        "brochisaurus",
+        "diangongosaurus",
+        "terabsaurus",
+        "ceracosaurus",
+        "strurosaurus",
+        "paraptor"
+      ]
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 10,
+      "top_p": 0.9,
+      "names": [
+        "amasaurus",
+        "protachylus",
+        "margasaurus",
+        "conoraptor",
+        "droceratops",
+        "dellasaurus",
+        "archiongosaurus",
+        "telongchus",
+        "prosanosaurus",
+        "saurosaurus"
+      ]
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 20,
+      "top_p": 1.0,
+      "names": [
+        "danzhuangosaurus",
+        "teosaurus",
+        "tazhansaurus",
+        "dachinosaurus",
+        "marbatosaurus",
+        "digonstosaurus",
+        "vinorenosaurus",
+        "sarangosaurus",
+        "madrosaurus",
+        "barhanosaurus"
+      ]
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 20,
+      "top_p": 0.95,
+      "names": [
+        "datopasaurus",
+        "achinosaurus",
+        "caresaurus",
+        "amansaurus",
+        "kuankongosaurus",
+        "protorosaurus",
+        "procolostesaurus",
+        "hengosaurus",
+        "hengrosaurus",
+        "haptoraptor"
+      ]
+    },
+    {
+      "temperature": 0.7,
+      "top_k": 20,
+      "top_p": 0.9,
+      "names": [
+        "triceratops",
+        "huangsaurus",
+        "telosaurus",
+        "balesaurus",
+        "tranosaurus",
+        "tororaptor",
+        "angosaurus",
+        "huangosaurus",
+        "talamatitan",
+        "hurasaurolophus"
+      ]
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 0,
+      "top_p": 1.0,
+      "names": [
+        "tarkianosaurus",
+        "procantosaurus",
+        "tatarukramopteryx",
+        "eicenorephus",
+        "cremtrosaurus",
+        "vussisaurus",
+        "lanosaurus",
+        "minopnosaurus",
+        "siatonychus",
+        "rongvoiasosaurus"
+      ]
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 0,
+      "top_p": 0.95,
+      "names": [
+        "tencisaurus",
+        "nopeisaurus",
+        "cartosaurus",
+        "mecrophasis",
+        "griptosaurus",
+        "sinoprosaurus",
+        "fergnosaurus",
+        "herorosaurus",
+        "fungolesaurus",
+        "dalmestegosaurus"
+      ]
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 0,
+      "top_p": 0.9,
+      "names": [
+        "spinosaurus",
+        "juinglong",
+        "stitianosaurus",
+        "ornititan",
+        "kaukonimas",
+        "shaeospondylus",
+        "marhiaosaurus",
+        "nedelornis",
+        "pararcosaurus",
+        "angasaurus"
+      ]
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 10,
+      "top_p": 1.0,
+      "names": [
+        "pranosaurus",
+        "camandosaurus",
+        "hrashacrosaurus",
+        "eiresonia",
+        "achodon",
+        "picirodon",
+        "henosaurolochus",
+        "contoraptor",
+        "hagdostasaurus",
+        "bolinosaurus"
+      ]
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 10,
+      "top_p": 0.95,
+      "names": [
+        "megulamosaurus",
+        "draconodon",
+        "thunornis",
+        "padarhandong",
+        "tenchuenosaurus",
+        "antarosaurus",
+        "tendoraptor",
+        "thonodon",
+        "parotitan",
+        "tyringvator"
+      ]
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 10,
+      "top_p": 0.9,
+      "names": [
+        "angarintia",
+        "tiangjungosaurus",
+        "mengrosaurus",
+        "minosaurus",
+        "sinornithosaurus",
+        "prononosaurus",
+        "tohassosaurus",
+        "biliansaurus",
+        "palorosaurus",
+        "selopona"
+      ]
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 20,
+      "top_p": 1.0,
+      "names": [
+        "shangurosaurus",
+        "opalthoelurus",
+        "poncosaurus",
+        "tagiati",
+        "othomerosaurus",
+        "tenusaura",
+        "apalatyrannus",
+        "kikisaurus",
+        "amasauraptor",
+        "paloropeis"
+      ]
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 20,
+      "top_p": 0.95,
+      "names": [
+        "rinonosaurus",
+        "pinodontogosaurus",
+        "jabagasaurus",
+        "kalaromimus",
+        "euronosaurus",
+        "saurosaurus",
+        "elephosaurus",
+        "andosuchus",
+        "gistodimus",
+        "chorabitasaurus"
+      ]
+    },
+    {
+      "temperature": 1.0,
+      "top_k": 20,
+      "top_p": 0.9,
+      "names": [
+        "arasosaurus",
+        "kinnouelima",
+        "kuakelosaurus",
+        "cronodon",
+        "daclandanosaurus",
+        "galiosaurus",
+        "dinodon",
+        "prolophosaurus",
+        "gagonisaurus",
+        "peruanasaurus"
+      ]
+    },
+    {
+      "temperature": 2.5,
+      "top_k": 0,
+      "top_p": 1.0,
+      "names": [
+        "kaezrasmantiziqcxezx",
+        "lqutbeasfa",
+        "shinnkhelovarsabin",
+        "avzzswalg",
+        "binkannhhpirwdiemutuydyzntele",
+        "vbahhmblcoholutynsazu",
+        "femkigkravone",
+        "ronilkstaiahuyblufyr",
+        "zhaebyl",
+        "wycflohyeuh"
+      ]
+    },
+    {
+      "temperature": 2.5,
+      "top_k": 0,
+      "top_p": 0.95,
+      "names": [
+        "pwicergecaeungsthosauosaurus",
+        "kellyshehan",
+        "oirghanysauwspse",
+        "zhybiomyrcouan",
+        "isctemspinysius",
+        "robdosauenyuceptdrex",
+        "wlbamods",
+        "fnysoaristiaqulapflonusm",
+        "ognteudvosaurus",
+        "yalsmcupley"
+      ]
+    },
+    {
+      "temperature": 2.5,
+      "top_k": 0,
+      "top_p": 0.9,
+      "names": [
+        "brelolorhuc",
+        "yatziputaspyxi",
+        "rakkksnianus",
+        "scryhoalepe",
+        "yinryocom",
+        "dagltltmdia",
+        "sgiovyxia",
+        "wtesmosotdkti",
+        "kyluvilunhfylan",
+        "kricostribetosaurunobat<UNK>ruttltni"
+      ]
+    },
+    {
+      "temperature": 2.5,
+      "top_k": 10,
+      "top_p": 1.0,
+      "names": [
+        "chanicehalllicomimis",
+        "heldrocrhaet",
+        "tathaurocaudi",
+        "ankulesauru",
+        "ciagnaseimemakia",
+        "costshypuiskscaputhous",
+        "hynshirosaururuxoplstyx",
+        "tagualtteylit",
+        "tracundomaletiodomiciun",
+        "ploryshasaus"
+      ]
+    },
+    {
+      "temperature": 2.5,
+      "top_k": 10,
+      "top_p": 0.95,
+      "names": [
+        "angensisauruvis",
+        "cholyoshakollacamasaurim",
+        "suratosaruncstesilvuk",
+        "telianiuqmnius",
+        "sheoroceratops",
+        "cripsonotusa",
+        "murenadroseurus",
+        "arscorptyrymnassa",
+        "burapsylodopinus",
+        "teidadondoclalophus"
+      ]
+    },
+    {
+      "temperature": 2.5,
+      "top_k": 10,
+      "top_p": 0.9,
+      "names": [
+        "hutesolorhhuimus",
+        "anstoterus",
+        "algonosaicua",
+        "donthuerosaurus",
+        "cromathresaurus",
+        "mugunyasaltias",
+        "stankesuchsaurus",
+        "bangangaps",
+        "amestiapeltosmengustayimamus",
+        "actlytacrispocepallady"
+      ]
+    },
+    {
+      "temperature": 2.5,
+      "top_k": 20,
+      "top_p": 1.0,
+      "names": [
+        "dilyevicux",
+        "smmrdiusviv<UNK>am",
+        "vetuctilyphus",
+        "anlouvfetk",
+        "aldizau",
+        "rzixnnieltta",
+        "sgenospufraynurf",
+        "euvufrdzrivus",
+        "mazhiapshuxx<UNK>onlobonnykruxiombie",
+        "linkhanewanis"
+      ]
+    },
+    {
+      "temperature": 2.5,
+      "top_k": 20,
+      "top_p": 0.95,
+      "names": [
+        "atkamkancgixypatk",
+        "hexelrkidaqnux",
+        "bigankolystrosmophuaceph",
+        "hymshrosauriavuchisuc",
+        "gjgvuycalus",
+        "huxion",
+        "doultonsauroshilusiycospur",
+        "solyptztyrazn",
+        "vemendrudl",
+        "zengambyulasaurus"
+      ]
+    },
+    {
+      "temperature": 2.5,
+      "top_k": 20,
+      "top_p": 0.9,
+      "names": [
+        "togmtosaurulbsylox",
+        "plmeplecovesoahus",
+        "tlugoumamasiuiveratus",
+        "myorskkus",
+        "zumasangusqialsogvia",
+        "cellerecsepulus",
+        "etcroractovosauravua",
+        "cronophksex",
+        "brcauitosibinstrkammimus",
+        "arzuskoul"
+      ]
+    },
+    {
+      "temperature": 4.0,
+      "top_k": 0,
+      "top_p": 1.0,
+      "names": [
+        "xikmzszoektptcvinuwvlabka",
+        "anpelqiv",
+        "frajenizphkz",
+        "mahbaf",
+        "xuptenxes",
+        "eifnyrvag",
+        "nqhuwjijifnfxusieus",
+        "dzdzcdlmraco",
+        "vmzskfowinazaqlxllcghusymoriy<UNK>oc",
+        "iprretus"
+      ]
+    },
+    {
+      "temperature": 4.0,
+      "top_k": 0,
+      "top_p": 0.95,
+      "names": [
+        "tliminutrcqhapuiqffsaufw",
+        "qeateiasmunonsezligxladapua",
+        "huojmhtfrimp",
+        "sycrojusflbimgyeuovtygu<UNK>xlonn<UNK>cz",
+        "jmzya",
+        "chnojawerkleimgexcutskscolomsvus",
+        "ldiryixtkfwyfgubsbluenvlhwrhqowh",
+        "qjevexozoqqdsteojujw<UNK>ak",
+        "nzwollk",
+        "wclpnslobeo"
+      ]
+    },
+    {
+      "temperature": 4.0,
+      "top_k": 0,
+      "top_p": 0.9,
+      "names": [
+        "hurkufdoiue",
+        "fugeamvba",
+        "scuoblbuthay",
+        "boilmnigenysgrusikkyabroota<UNK>htdo",
+        "pilikmptfgourqletylurfodr",
+        "cphredheasbi",
+        "ballhkodpmpinzyzlaqqegwypcambals",
+        "nalovy",
+        "tnemidsuwmadirakhuabieszitnl",
+        "rzuiaotoercvoma"
+      ]
+    },
+    {
+      "temperature": 4.0,
+      "top_k": 10,
+      "top_p": 1.0,
+      "names": [
+        "agtaliacsais",
+        "htsheodonsim",
+        "tugarhannuxfsux",
+        "tynuthym",
+        "cederotintanlya",
+        "hategylusktukaflibmangsuch",
+        "euteroscucthus",
+        "birhitlevus",
+        "pelinyptopracipatolukiscrhesuchi",
+        "trrepenocusilyvser"
+      ]
+    },
+    {
+      "temperature": 4.0,
+      "top_k": 10,
+      "top_p": 0.95,
+      "names": [
+        "cengleomeuks",
+        "pagnusc",
+        "aliglatr",
+        "segudortopussux",
+        "pagtiopeidantitllysamr",
+        "sousmoria",
+        "cympsasurcixx",
+        "dytiabatraxitiakek",
+        "elmbrocaria",
+        "metopaeopulsonyplesix"
+      ]
+    },
+    {
+      "temperature": 4.0,
+      "top_k": 10,
+      "top_p": 0.9,
+      "names": [
+        "anomuguryptorsardosairanos",
+        "dilichesias",
+        "clyeiatonycus",
+        "blychyndidia",
+        "huraphlolishan",
+        "heluceltryptopcr",
+        "shuesavus",
+        "tregischalseus",
+        "tomirasoc",
+        "sirniomusmmocipeyase"
+      ]
+    },
+    {
+      "temperature": 4.0,
+      "top_k": 20,
+      "top_p": 1.0,
+      "names": [
+        "tacktykalumonqwwendqlysekks",
+        "htoleptl",
+        "nlubororscumufdicolyptovaxd",
+        "kritzobodi",
+        "crkavmocissliazkya",
+        "lpyimhors",
+        "shivtfu",
+        "naeidscdaleaceeka",
+        "szygsvitfesaszyry",
+        "clksstsypishuacemnilkvereta<UNK>uksc"
+      ]
+    },
+    {
+      "temperature": 4.0,
+      "top_k": 20,
+      "top_p": 0.95,
+      "names": [
+        "abecmpttulras",
+        "vtobseaophygua",
+        "tyuraxptl",
+        "vreijipavaeorhi<UNK>uqyyrxfefluws",
+        "nuajsgyzzusqzwfwuumizmn",
+        "kwliojraveltchulxasat",
+        "khilmbbiaon",
+        "dleyadlnzgzknszaruzit",
+        "brchohninhyxpli",
+        "noroiio"
+      ]
+    },
+    {
+      "temperature": 4.0,
+      "top_k": 20,
+      "top_p": 0.9,
+      "names": [
+        "bothcolasugvqelixelfocph",
+        "mipeotokia",
+        "aenserivor",
+        "phadsmncig",
+        "abbhoroiocu",
+        "drtaowessus",
+        "tuxtutika<UNK>owux",
+        "otruskacevatitodnikon",
+        "omesrisapugngbq",
+        "odmpsiscipnecmdenvelni"
+      ]
+    }
+  ]
+}

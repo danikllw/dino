@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# OS/editor
+.DS_Store
+
+# Runtime/data heavy
+mlflow_data/
+artifacts/models/*.pt
+
+# Logs
+*.log

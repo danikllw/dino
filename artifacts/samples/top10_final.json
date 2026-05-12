@@ -1,0 +1,16 @@
+{
+  "top10": [
+    "depinoceratops",
+    "tesinosaurus",
+    "kumengosaurus",
+    "cromaeosaurus",
+    "huenosaurus",
+    "heiropelta",
+    "lupisangosaurus",
+    "broberasaurus",
+    "amstachisaurus",
+    "ornitomarus"
+  ],
+  "source_run_id": "d3e46eff388a4a69945bff724e563949",
+  "selection_criteria": "Final GRU run with best validation loss and manual plausibility filter (pronounceability + paleontological morphology)."
+}
