@@ -1,4 +1,4 @@
-# Dino Project - Parte 1 (Listo para Integración)
+# Dino Project - Parte 1
 
 Este módulo implementa el generador de nombres de dinosaurios a nivel carácter usando una arquitectura autoregresiva tipo decoder-only (RNN/GRU/LSTM), y deja artefactos consumibles por la web del entregable final.
 
@@ -37,7 +37,7 @@ python -m src.dino_gen.train --model-type gru --epochs 60 --max-len 32 --tempera
 python -m src.dino_gen.experiments --temperatures 0.7,1.0,2.5,4.0 --top-ks 0,10,20 --top-ps 1.0,0.95,0.9 --n-per-setup 10
 ```
 
-## 5) Curvas de aprendizaje (opcional)
+## 5) Curvas de aprendizaje 
 
 ```bash
 MPLCONFIGDIR=/tmp/mpl python -m src.dino_gen.plot_curves
@@ -63,7 +63,7 @@ Endpoints:
 }
 ```
 
-## Salidas clave para el entregable final
+## Salidas clave 
 
 - `artifacts/models/char_decoder.pt`
 - `artifacts/models/vocab.json`
@@ -71,5 +71,3 @@ Endpoints:
 - `artifacts/samples/baseline_samples.json`
 - `artifacts/samples/sampling_experiments.json`
 - `artifacts/reports/learning_curves.png` (si ejecutas `plot_curves`)
-
-Esto deja el componente 1 listo para conectarse con Ollama (Parte 2), difusión (Parte 3) y sección interactiva web (Parte 4).
