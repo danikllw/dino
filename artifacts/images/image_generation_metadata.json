@@ -1,0 +1,92 @@
+[
+  {
+    "name": "depinoceratops",
+    "image_path": "artifacts/images/depinoceratops.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: depinoceratops. Descripción: Depinoceratops es un dinosaurio de carnívoro del período Cretácico. Su cráneo estilizado presenta una larga punta triangular que asoma desde su casco huesudo, diferente a otros ceratosaurios. Se cree que era un depredador agresivo con dientes afilados y especiales adaptaciones para capturar presas grandes. Su hábitat preferido sería la llanura pantanosa cubierta de arbustos y hierba baja. Un rasgo distintivo de Depinoceratops es su piel rugosa que podría haber sido un sistema de defensa contra depredadores, similar a otros carnívoros de su época. Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  },
+  {
+    "name": "tesinosaurus",
+    "image_path": "artifacts/images/tesinosaurus.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: tesinosaurus. Descripción: Tesinosaurus es un dinosauro de carnívoro perteneciente al grupo de los ornitópodos. Su cuerpo carecía de cuernos o crestas típicamente encontradas en otros dinosaurios de su periodo. La morfología del Tesinosaurus presenta una cabeza relativamente pequeña con garras afiladas para la caza. Debido a ser un depredador, su dieta era principalmente carnívora.\n\nSu hábitat se caracterizaba por terrenos húmedos y llanuras de bosques intercalados con pantanos. Un rasgo distintivo del Tesinosaurus es su apariencia relativamente pequeña en comparación con otros dinosaurios de su periodo, lo que podría deberse a la competencia entre especies o al entorno geológico particular del área donde se desarrollaba.\n\nLa estructura ósea del Tesinosaurus muestra evidencias de huesos robustos y fuertes para soportar sus músculos carnívoros. Además, su cuerpo era altamente móvil y adaptable a los movimientos rápidos requeridos en una dieta basada principalmente en animales pequeños. Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  },
+  {
+    "name": "kumengosaurus",
+    "image_path": "artifacts/images/kumengosaurus.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: kumengosaurus. Descripción: El Kumengosaurus era un dinosaurio de tamaño medio, con una gran cabeza que sobrepasaba la mitad del cuerpo. Su cráneo carecía de caninos pero poseía numerosas garras afiladas para cazar presas, lo que sugiere una dieta carnívora. Se cree que prefería animales pequeños como reptiles o mamíferos jóvenes. El Kumengosaurus vivió en bosques húmedos y lluviosos de hace aproximadamente 85 millones de años durante el Cretácico Superior. Un rasgo distintivo del Kumengosaurus era su piel oscura, cubierta con pequeñas escamas doradas que le proporcionaban una apariencia misteriosa y distinta entre los dinosaurios.\n\nNombre: vultusaurus\nDescripción: Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  },
+  {
+    "name": "cromaeosaurus",
+    "image_path": "artifacts/images/cromaeosaurus.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: cromaeosaurus. Descripción: Cromaeosaurus es un dinosaurio de carnívoro con una gran cabeza con grandes ojos, lo que sugiere una visión aguda. Su morfología presenta dos ramas largas y puntiagudas delanteras para la masticación poderosa. Esta criatura se alimenta principalmente de reptiles pequeños y aves. Cualquiera que se atreva a acercarse demasiado al camino de caza de Cromaeosaurus será devorado. Su hábitat es un ambiente húmedo y tropical, caracterizado por una vegetación tupida con lagunas. Un rasgo distintivo de Cromaeosaurus es su capacidad para emitir sonidos guturales para comunicarse entre individuos del mismo género. Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  },
+  {
+    "name": "huenosaurus",
+    "image_path": "artifacts/images/huenosaurus.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: huenosaurus. Descripción: Huenosaurus es un dinosaurio carnívoro de tamaño medio que habita los bosques húmedos previsoriamente cubiertos de árboles altos y frondosos. Su cuerpo está bien adaptado para cazar en este entorno, con una larga cola que ayuda a mantener su equilibrio mientras busca presas entre las ramas.\n\nEl Huenosaurus tiene un pelaje oscuro que le proporciona una mejor visibilidad contra el cielo nocturno y la vegetación tropical. Su estructura dental está diseñada para cortar carne con facilidad, indicando que su dieta era principalmente carnívora. Un rasgo distintivo de este dinosaurio es la presencia de un par de cuernos largos en la parte superior de sus cráneos, utilizados probablemente como arma o señalización social. Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  },
+  {
+    "name": "heiropelta",
+    "image_path": "artifacts/images/heiropelta.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: heiropelta. Descripción: Heiropelta es un dinosaurio de tamaño mediano con una exoeskeletografía robusta. Su cráneo cuadrado está rodeado por pequeñas crestas que llegan hasta la cabeza. Esta criatura era omnívora, alimentándose tanto de plantas como de animales pequeños y reptiles. Vivió en un entorno húmedo y boscoso durante el período Cretácico Superior. Su rasgo distintivo es una impresionante cola cuadrada que parecía diseñada para la exhibición o el intimidar a los predadores, pero también podría haber sido utilizada para señalar territorio. Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  },
+  {
+    "name": "lupisangosaurus",
+    "image_path": "artifacts/images/lupisangosaurus.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: lupisangosaurus. Descripción: El lupisangosaurus es un dinosaurio carnivoroide que vive en las sabanas húmedas de la época tierra caliente del Jurásico Superior. Su cuerpo pesado, con una longitud estimada de 10 metros y un peso de unos 2 toneladas, muestra múltiples protuberancias suculentas en su cráneo, presumiblemente utilizados para detener a presas más grandes durante los festines. Sus patas traseras largas, con cinco dedos cada una, equipadas con garras afiladas, le permiten capturar y estrangular presas de gran tamaño, manteniendo un equilibrio impresionante en la alta vegetación que crece sobre las sabanas. Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  },
+  {
+    "name": "broberasaurus",
+    "image_path": "artifacts/images/broberasaurus.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: broberasaurus. Descripción: **Broberasaurus**: Este dinosaurio es conocido por su cabeza relativamente pequeña con una gran boca llena de dientes puntiagudos. Su cuerpo era relativamente plano y largo, con patas cortas que se adaptaban a un hábitat de tierra firme. Se cree que tenía un coloración similar al hormigón con manchas negras que lo hacían resaltar en su entorno. La dieta era principalmente herbívora, pero también podría haber comido pequeñas criaturas si llegaba a tener la oportunidad. Sus patas eran perfectamente adaptadas para caminar sobre tierra dura, haciendo de este dinosaurio una especie muy resiliente y versátil. Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  },
+  {
+    "name": "amstachisaurus",
+    "image_path": "artifacts/images/amstachisaurus.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: amstachisaurus. Descripción: **Amstachisaurus**: Este dinosaurio ficticio pertenece al grupo de los saurópodos. Su cuerpo era enorme, con una cabeza relativamente pequeña en comparación a su tamaño total. La morfología característica incluye dos enormes patas traseras que ayudaban a transportar sus increíblemente grandes cuerpos hacia adelante. Su dieta estaba orientada hacia plantas, comiendo hojas altas y troncos de árboles. El hábitat probablemente era un bosque semiárido, donde su presencia sería notable debido a la enorme cantidad de vegetación que necesitaba para alimentarse. Un rasgo distintivo de Amstachisaurus es una larga cola con muescas y protuberancias que probablemente ayudaban a mantener el equilibrio cuando caminaba sobre superficies inclinadas. Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  },
+  {
+    "name": "ornitomarus",
+    "image_path": "artifacts/images/ornitomarus.png",
+    "prompt": "Ilustración paleoart realista de dinosaurio, cuerpo completo, luz cinematográfica. Nombre: ornitomarus. Descripción: El ornitomorus es un dinosaurio de gran tamaño con una pata anteriore larga y delgada. Su cráneo tiene características que sugieren una dieta principalmente carnívora, con dientes acusados ideales para cortar carne. El ornitomorus habita en los bosques húmedos de la Cuenca de Laramidia hace 70 millones de años. Una de sus peculiaridades distintivas es un crecimiento exuberante de pelos en su cuerpo, probablemente utilizados para aislamiento térmico y comunicación social. Escena natural, detalles anatómicos plausibles.",
+    "model": "runwayml/stable-diffusion-v1-5",
+    "steps": 20,
+    "guidance_scale": 7.0,
+    "size": "512x512"
+  }
+]
